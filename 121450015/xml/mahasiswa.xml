@@ -1,0 +1,32 @@
+<mahasiswa>
+	<data nim="123456789">
+		<nama>Alice</nama>
+		<jurusan>Informatika</jurusan>
+		<alamat>Bandung</alamat>
+	</data>
+	<data nim="987654321">
+		<nama>Bob</nama>
+		<jurusan>Teknik Elektro</jurusan>
+		<alamat>Jakarta</alamat>
+	</data>
+	<data nim="111222333">
+		<nama>Charlie</nama>
+		<jurusan>Arsitektur</jurusan>
+		<alamat>Lampung</alamat>
+	</data>
+	<data nim="444555666">
+		<nama>Diana</nama>
+		<jurusan>Arsitektur</jurusan>
+		<alamat>Yogyakarta</alamat>
+	</data>
+	<data nim="777888999">
+		<nama>Eva</nama>
+		<jurusan>Ekonomi</jurusan>
+		<alamat>Surabaya</alamat>
+	</data>
+	<data nim="121450015">
+		<nama>Mujadid Choirus Surya</nama>
+		<jurusan>Sains Data</jurusan>
+		<alamat>Pringsewu</alamat>
+	</data>
+</mahasiswa>
