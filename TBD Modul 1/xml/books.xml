@@ -1,0 +1,26 @@
+<books>
+	<book id="1">
+		<title>The Catcher in the Rye</title>
+		<author>J.D. Salinger</author>
+		<genre>Fiction</genre>
+		<price>20.00</price>
+	</book>
+	<book id="2">
+		<title>To Kill a Mockingbird</title>
+		<author>Harper Lee</author>
+		<genre>Fiction</genre>
+		<price>18.00</price>
+	</book>
+	<book id="3">
+		<title>1984</title>
+		<author>George Orwell</author>
+		<genre>Science Fiction</genre>
+		<price>15.00</price>
+	</book>
+	<book id="4">
+		<title>The Great Gatsby</title>
+		<author>F. Scott Fitzgerald</author>
+		<genre>Classic</genre>
+		<price>25.00</price>
+	</book>
+</books>
