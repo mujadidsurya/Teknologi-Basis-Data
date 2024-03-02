@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 
 # Membaca file XML
-tree = ET.parse('books.xml')
+tree = ET.parse('xml/books.xml')
 root = tree.getroot()
 
 # Mencocokkan semua elemen menggunakan ekspresi XPath //*
